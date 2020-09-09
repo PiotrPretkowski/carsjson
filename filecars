@@ -1,0 +1,74 @@
+{
+  "offers": [
+    {
+      "id": 1,
+      "name": "BMW Seria 3",
+      "thumbnailUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRkZ3Z0eDc4cW9mcTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.oxjZ4oNhys_AC-OcyjFL53YrmbozPAIpJcoOVFEKOC0/image;s=1080x720",
+      "price": {
+        "amount": "40999",
+        "currency": "PLN"
+      },
+      "description": "  <p> rok: 2009 przebieg: 198 000 km  paliwo: Benzyna typ: Coupe </p> "
+    },
+    {
+      "id": "2",
+      "name": "Toyota Auris Hybrid",
+      "thumbnailUrl": "https://www.wyborkierowcow.pl/wp-content/uploads/2019/04/Toyota-Auris-TS-Hybrid-dynamiczne-2-1.jpg",
+      "price": {
+        "amount": "61200",
+        "currency": "PLN"
+      },
+      "description": "<p>rok: 2017 przebieg: 105 000 km  paliwo: Hybryda typ: Kombi </p> "
+    },
+    {
+      "id": "3",
+      "name": "Audi A3",
+      "thumbnailUrl": "https://image.ceneostatic.pl/data/products/84778004/i-audi-a3-8p-2009-ambition-2-0-tdi.jpg",
+      "price": {
+        "amount": "24900",
+        "currency": "PLN"
+      },
+      "description": "<p>rok: 2009 przebieg: 257 000 km  paliwo: Diesel typ: Kompakt</p> "
+    },
+    {
+      "id": "4",
+      "name": "Ford Mustang",
+      "thumbnailUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2019-ford-mustang-bullitt-99leadgallery-1536965630.jpg",
+      "price": {
+        "amount": "205000",
+        "currency": "PLN"
+      },
+      "description": "<p>rok: 2019 przebieg: 23 000 km  paliwo: Benzyna typ: Coupe</p> "
+    },
+    {
+      "id": "5",
+      "name": "Mercedes-Benz Klasa C",
+      "thumbnailUrl": "https://img.chceauto.pl/mercedes-benz/c-klasa/mercedes-benz-c-klasa-coupe-3206-28286_head.jpg",
+      "price": {
+        "amount": "174900",
+        "currency": "PLN"
+      },
+      "description": "<p>rok: 2017 przebieg: 52 000 km  paliwo: Benzyna typ: Sedan </p> "
+    },
+    {
+      "id": "6",
+      "name": "Opel Insignia",
+      "thumbnailUrl": "https://image.ceneostatic.pl/data/products/74695853/i-opel-insignia-2013-wersja-cosmo-okazja.jpg",
+      "price": {
+        "amount": "29900",
+        "currency": "PLN"
+      },
+      "description": "<p>rok: 2013 przebieg: 201 000 km  paliwo: Diesel typ: Kombi </p> "
+    },
+    {
+      "id": "7",
+      "name": "Subaru Impreza",
+      "thumbnailUrl": "https://lh3.googleusercontent.com/proxy/hr1AwJ7BUaQP3aNUqR9eqcWz5rmtm25i65864d5sDDS9a2VmbIGeTlrl5SvuOCQIOLO640gNHgZqKUJ-5PHwQhpq1lg2OHbfcagEeWnFEKmzQrDf_nLrFxRcMuXdMQbh2UMoRzP2ME4yXL8s",
+      "price": {
+        "amount": "27777",
+        "currency": "PLN"
+      },
+      "description": "<p>rok: 2011 przebieg: 90 000 km  paliwo: Benzyna+LPG typ: Kompakt</p> "
+    }
+  ]
+}
