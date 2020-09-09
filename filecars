@@ -1,7 +1,7 @@
 {
   "offers": [
     {
-      "id": 1,
+      "id": "1",
       "name": "BMW Seria 3",
       "thumbnailUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRkZ3Z0eDc4cW9mcTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.oxjZ4oNhys_AC-OcyjFL53YrmbozPAIpJcoOVFEKOC0/image;s=1080x720",
       "price": {
